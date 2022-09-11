@@ -1,1 +1,2 @@
 This is the 1st document in Folder A. 
+There is a new test that has to be added into this folder. 
