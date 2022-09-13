@@ -1,2 +1,0 @@
-This is the 1st document in Folder C.
-This is modified for pull request.  
