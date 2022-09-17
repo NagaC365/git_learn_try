@@ -1,6 +1,8 @@
 # This is a program that computes sum of the two numbers that are integers and are also subset of real numbers and are also natural numbers.
 x = 2
 y = 4
+a = 2
+b = 3
 print(x)
 sum = SuM(a, b)
 print(sum)
